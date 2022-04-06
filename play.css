@@ -1,0 +1,13 @@
+.fondo{
+
+    background-image: url("img/imagen9.jpg");
+    background-size: cover;
+    background-position: top center top;
+
+    padding: 8% 20% 2%;
+}
+
+.parrafo{
+    text-align: center;
+    color: white;
+}
